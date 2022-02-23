@@ -29,6 +29,7 @@
 <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/>
 <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+<img src="https://img.icons8.com/ios/50/000000/tableau-software.png"/>
    <img src="https://img.icons8.com/color/48/000000/figma--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/adobe-xd--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
