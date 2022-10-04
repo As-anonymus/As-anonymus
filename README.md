@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on **[Web3 DApps]**<br>👯 I’m looking to collaborate on **Data Science Projects/Research**<br>🤝 I’m looking for help with team projects and hackathons<br>🌱 I’m currently learning **ML/AI & Exploring Backend.**<br>👽 Ask me about figuring something out !<br>⚡ Fun fact **I play games and continue to learn and explore stuff**
 
+![giphy](https://user-images.githubusercontent.com/71918880/193938346-ed440d21-3a53-4d17-afa5-b4884fb0a422.gif)
 
 ## 🌐 Socials:
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aditya_sh13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-singh-907b0830/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/as51516) 
