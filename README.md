@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on **[Web3 DApps]**<br>👯 I’m looking to collaborate on **Data Science Projects/Research**<br>🤝 I’m looking for help with team projects and hackathons<br>🌱 I’m currently learning **ML/AI & Exploring Backend.**<br>👽 Ask me about figuring something out !<br>⚡ Fun fact **I play games and continue to learn and explore stuff**
+🔭 I’m currently working on **[Django Framework]**<br>👯 I’m looking to collaborate on **Data Science Projects/Research**<br>🤝 I’m looking for help with team projects and hackathons<br>🌱 I’m currently learning **ML/AI & Exploring Backend.**<br>👽 Ask me about figuring something out !<br>⚡ Fun fact **I play games and continue to learn and explore stuff**
 
 ![giphy](https://user-images.githubusercontent.com/71918880/193938346-ed440d21-3a53-4d17-afa5-b4884fb0a422.gif)
 
